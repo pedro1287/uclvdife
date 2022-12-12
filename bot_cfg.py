@@ -14,7 +14,7 @@ def read_config() -> dict:
 
 tg_api_id = 1552965219
 tg_api_hash = "a86730aab5c59953c424abb4396d32d5"
-tg_bot_token = "5831751857:AAGJ9x-eutj3HWOzXdlQVPGTD_wjCVDyeOo"
+tg_bot_token = "5831751857:AAGJ9x-eutj3HWOzXdlQVPGTD_wjCVDye"
 datastore_store_id = -1001695628050
 datastore_field_id = 4
 global_config = {}
